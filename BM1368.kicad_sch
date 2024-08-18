@@ -3406,7 +3406,7 @@
 		)
 		(uuid "824a6da4-bd96-49d6-b678-5cd81f9f6723")
 	)
-	(hierarchical_label "U9-VDD3_1"
+	(hierarchical_label "U9-VDD1_1"
 		(shape output)
 		(at 278.13 50.8 0)
 		(fields_autoplaced yes)
@@ -3478,7 +3478,7 @@
 		)
 		(uuid "d623dd16-b255-40bc-b447-bd5abc77ead2")
 	)
-	(hierarchical_label "U9-VDD1_1"
+	(hierarchical_label "U9-VDD3_1"
 		(shape output)
 		(at 278.13 45.72 0)
 		(fields_autoplaced yes)
