@@ -2228,6 +2228,16 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 100.33) (xy 162.56 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12ea450c-5fc1-4256-8ee2-1658db16a4bf")
+	)
+	(wire
+		(pts
 			(xy 52.07 74.93) (xy 52.07 76.2)
 		)
 		(stroke
@@ -2318,6 +2328,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 97.79) (xy 124.46 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37847cd1-4300-41fe-8299-84b4dd32cedd")
+	)
+	(wire
+		(pts
 			(xy 29.21 31.75) (xy 38.1 31.75)
 		)
 		(stroke
@@ -2378,6 +2398,16 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 97.79) (xy 162.56 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "458e6603-e219-4ac9-927b-31c6cdc85082")
+	)
+	(wire
+		(pts
 			(xy 59.69 85.09) (xy 83.82 85.09)
 		)
 		(stroke
@@ -2395,6 +2425,16 @@
 			(type default)
 		)
 		(uuid "490fd9d3-712e-4ad5-9a7b-ba7cb953299b")
+	)
+	(wire
+		(pts
+			(xy 189.23 97.79) (xy 199.39 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4be4d713-8937-4a53-b5a1-d136cf556310")
 	)
 	(wire
 		(pts
@@ -2498,6 +2538,26 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 95.25) (xy 199.39 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "750960f5-5154-4552-b358-7afee0e51efd")
+	)
+	(wire
+		(pts
+			(xy 110.49 100.33) (xy 124.46 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "802bc9ec-32ab-4737-b1a6-5c120bed5bd3")
+	)
+	(wire
+		(pts
 			(xy 160.02 31.75) (xy 157.48 31.75)
 		)
 		(stroke
@@ -2525,6 +2585,16 @@
 			(type default)
 		)
 		(uuid "9edf5534-d29c-4e1a-983b-8721356af9f7")
+	)
+	(wire
+		(pts
+			(xy 189.23 100.33) (xy 199.39 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f9eb18f-51fe-47de-bed4-99b367136cb8")
 	)
 	(wire
 		(pts
@@ -2658,6 +2728,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 95.25) (xy 124.46 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3164a5a-9ebb-40b6-8033-77f64d672945")
+	)
+	(wire
+		(pts
 			(xy 52.07 92.71) (xy 52.07 93.98)
 		)
 		(stroke
@@ -2685,6 +2765,16 @@
 			(type default)
 		)
 		(uuid "df5eb239-abd8-44f8-8a90-4a6dac4ca280")
+	)
+	(wire
+		(pts
+			(xy 151.13 95.25) (xy 162.56 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6586fc9-fa72-42c3-b055-f38e85cfa741")
 	)
 	(wire
 		(pts
@@ -5156,6 +5246,36 @@
 			)
 			(uuid "9ee28350-d9b3-484a-a567-8797b2dd89b2")
 		)
+		(pin "U9-VDD3_1" output
+			(at 110.49 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2f8d47fa-2fb5-4e5c-9b84-b35f00910ecc")
+		)
+		(pin "U9-VDD2_1" output
+			(at 110.49 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4e0da18d-362c-40c0-8a4f-62c8ecc407dc")
+		)
+		(pin "U9-VDD1_1" output
+			(at 110.49 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "59ac8e7e-5c80-4e3a-ba02-4e0fcca34c7f")
+		)
 		(instances
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7"
@@ -5294,6 +5414,66 @@
 				(justify left)
 			)
 			(uuid "87828f72-447c-45ed-aae5-63d58f24d9ba")
+		)
+		(pin "U9-VDD1_1" input
+			(at 124.46 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bb92408d-778e-436c-87d1-77b3a6dfb295")
+		)
+		(pin "U9-VDD2_1" input
+			(at 124.46 97.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bf5b9a01-03c9-4e04-bfc2-3453803c25cd")
+		)
+		(pin "U9-VDD3_1" input
+			(at 124.46 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "025f0b8f-1daf-430e-80c6-2a5470430e20")
+		)
+		(pin "U11-VDD3_1" output
+			(at 151.13 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "92c0015f-0da6-4a6a-9ab7-5e5c16c30aa6")
+		)
+		(pin "U11-VDD2_1" output
+			(at 151.13 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0c5c340d-b76b-4270-9afd-f3c4b8a5df72")
+		)
+		(pin "U11-VDD1_1" output
+			(at 151.13 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6837e3cd-94e2-4cff-ab3e-3757bdf63eea")
 		)
 		(instances
 			(project "Nerd8"
@@ -5434,6 +5614,36 @@
 			)
 			(uuid "2b32ab78-df98-470e-a650-e0447caf62e9")
 		)
+		(pin "U13-VDD3_1" input
+			(at 199.39 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "19704d73-7243-4eaf-8c46-addf9ba7dfa1")
+		)
+		(pin "U13-VDD2_1" input
+			(at 199.39 97.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "328fe49e-5f74-4fd7-b161-dffd0123fb48")
+		)
+		(pin "U13-VDD1_1" input
+			(at 199.39 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "19c3930c-f98a-4861-a080-e68fcf270ac2")
+		)
 		(instances
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7"
@@ -5572,6 +5782,66 @@
 				(justify left)
 			)
 			(uuid "e0c02f7b-c211-4c88-84c7-fc13c03d5ca3")
+		)
+		(pin "U13-VDD3_1" output
+			(at 189.23 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f2099d6f-51fa-4665-8d02-bfcfeedd14e3")
+		)
+		(pin "U13-VDD2_1" output
+			(at 189.23 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1f6a3497-425f-4700-859d-52a68b7ab199")
+		)
+		(pin "U13-VDD1_1" output
+			(at 189.23 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0737edd3-cdef-40d2-8418-546107e08e8c")
+		)
+		(pin "U11-VDD1_1" input
+			(at 162.56 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2f1c111f-36f4-4290-badf-e1455652390e")
+		)
+		(pin "U11-VDD2_1" input
+			(at 162.56 97.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "49d9ceca-dac4-4523-91af-441ded3e3037")
+		)
+		(pin "U11-VDD3_1" input
+			(at 162.56 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "239163c4-7a79-4ecc-ac1b-94d60bf5d734")
 		)
 		(instances
 			(project "Nerd8"
