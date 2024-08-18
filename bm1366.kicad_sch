@@ -5186,7 +5186,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "BM1368.kicad_sch"
+		(property "Sheetfile" "BM1368-1.kicad_sch"
 			(at 124.46 105.9946 0)
 			(effects
 				(font
@@ -5325,7 +5325,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "BM1368.kicad_sch"
+		(property "Sheetfile" "BM1368-3.kicad_sch"
 			(at 199.39 105.9946 0)
 			(effects
 				(font
@@ -5464,7 +5464,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "BM1368.kicad_sch"
+		(property "Sheetfile" "BM1368-2.kicad_sch"
 			(at 162.56 105.9946 0)
 			(effects
 				(font
