@@ -1557,6 +1557,12 @@
 		(uuid "5fe38866-3eaf-4a4f-a55f-db0dc9638e2d")
 	)
 	(junction
+		(at 52.07 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "653e13ed-07ac-4d5e-af01-12e4cae84403")
+	)
+	(junction
 		(at 195.58 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2466,6 +2472,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 76.2) (xy 52.07 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e8e7561-a360-4004-9172-f63042e8ce06")
+	)
+	(wire
+		(pts
 			(xy 115.57 53.34) (xy 118.11 53.34)
 		)
 		(stroke
@@ -3116,6 +3132,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 55.88) (xy 52.07 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d007b3d9-c43a-4151-94f8-991e8b0198dc")
+	)
+	(wire
+		(pts
 			(xy 118.11 45.72) (xy 118.11 36.83)
 		)
 		(stroke
@@ -3133,6 +3159,16 @@
 			(type default)
 		)
 		(uuid "d1be2ca8-de77-4d0b-a024-d35c936e556d")
+	)
+	(wire
+		(pts
+			(xy 52.07 55.88) (xy 80.01 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2ca076c-ba4a-4471-89fc-9a79691fff67")
 	)
 	(wire
 		(pts
@@ -3376,7 +3412,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 55.88) (xy 80.01 55.88)
+			(xy 48.26 55.88) (xy 52.07 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3552,7 +3588,7 @@
 	)
 	(hierarchical_label "NRSTI"
 		(shape input)
-		(at 62.23 55.88 180)
+		(at 48.26 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6312,6 +6348,74 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7/65deb7aa-d17b-462a-abf5-da4343664945"
 					(reference "C73")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 52.07 72.39 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "575ff372-bc73-4afd-8a12-e2ba47fa68ee")
+		(property "Reference" "R49"
+			(at 55.372 72.898 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2k"
+			(at 53.975 73.025 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 50.292 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 52.07 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4b956c34-345d-45d4-86a6-3ea04d5e85b2")
+		)
+		(pin "2"
+			(uuid "6d28c68a-1bee-4e1a-8930-6b1e0ce81c32")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7/65deb7aa-d17b-462a-abf5-da4343664945"
+					(reference "R49")
 					(unit 1)
 				)
 			)
@@ -9486,6 +9590,73 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7/65deb7aa-d17b-462a-abf5-da4343664945"
 					(reference "#U017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 52.07 78.74 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e28c48f4-f38d-4217-ad20-78d144950288")
+		(property "Reference" "#PWR0339"
+			(at 52.07 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 52.07 83.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 52.07 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 52.07 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e0e82112-d86e-4ffc-825c-89689ffb09c1")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7/65deb7aa-d17b-462a-abf5-da4343664945"
+					(reference "#PWR0339")
 					(unit 1)
 				)
 			)
