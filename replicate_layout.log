@@ -1,0 +1,72 @@
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.11.5 (main, Apr  9 2024, 02:53:56) [MSC v.1936 64 bit (AMD64)]'
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 8.0.2
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 3.0.3
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x000002AA4021D480>
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with U9 as a reference
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'U9'
+Located on: ['BM1368', 'BM1368']
+With filenames: ['bm1366.kicad_sch', 'BM1368.kicad_sch']
+With sheet_id:['BM1368', 'BM1368']
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('U9', ['BM1368', 'BM1368']), ('U11', ['BM1368', 'BM1368-1']), ('U15', ['BM1368', 'BM1368-3']), ('U13', ['BM1368', 'BM1368-2'])]
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'BM1368', file:'bm1366.kicad_sch'
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[]
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1507:Level selected: ['BM1368', 'BM1368']
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(1702, 111)
+08-17 13:21:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(1263, 111)
+08-17 13:21:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'BM1368', file:'bm1366.kicad_sch'
+08-17 13:21:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[]
+08-17 13:21:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1507:Level selected: ['BM1368']
+08-17 13:21:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+08-17 13:21:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'BM1368', file:'bm1366.kicad_sch'
+08-17 13:21:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[]
+08-17 13:21:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1507:Level selected: ['BM1368', 'BM1368']
+08-17 13:21:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+08-17 13:21:46 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'BM1368', file:'bm1366.kicad_sch'
+08-17 13:21:46 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[]
+08-17 13:21:46 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1507:Level selected: ['BM1368', 'BM1368']
+08-17 13:21:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'BM1368', file:'bm1366.kicad_sch'
+08-17 13:21:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[]
+08-17 13:21:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1507:Level selected: ['BM1368', 'BM1368']
+08-17 13:21:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+08-17 13:21:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'BM1368', file:'bm1366.kicad_sch'
+08-17 13:21:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[]
+08-17 13:21:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1507:Level selected: ['BM1368', 'BM1368']
+08-17 13:21:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+08-17 13:21:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'BM1368', file:'bm1366.kicad_sch'
+08-17 13:21:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[]
+08-17 13:21:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1507:Level selected: ['BM1368', 'BM1368']
+08-17 13:21:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+08-17 13:21:52 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'BM1368', file:'bm1366.kicad_sch'
+08-17 13:21:52 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[]
+08-17 13:21:52 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1507:Level selected: ['BM1368', 'BM1368']
+08-17 13:21:52 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+08-17 13:21:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'BM1368', file:'bm1366.kicad_sch'
+08-17 13:21:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[]
+08-17 13:21:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1507:Level selected: ['BM1368', 'BM1368']
+08-17 13:21:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'BM1368', file:'bm1366.kicad_sch'
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[]
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 288:Starting replication of sheets: []
+on level: ['BM1368', 'BM1368']
+with tracks=True, zone=False, text=False, text=False, intersecting=False, remove=False, locked footprints=False, group_only=True
+08-17 13:21:58 root 332:updating GUI message: 'Preparing for replication'
+08-17 13:21:58 root 337:updating GUI with: 0
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 358:Getting the list of source footprints
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 368:Getting the list of all the remaining footprints
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 375:Getting source tracks
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 379:Getting source zones
+08-17 13:21:58 root 337:updating GUI with: 50
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 383:Getting source text items
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 387:Getting source drawing items
+08-17 13:21:58 root 332:updating GUI message: 'Replicating footprints'
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 861:Replicating footprints
+08-17 13:21:58 root 332:updating GUI message: 'Replicating tracks'
+08-17 13:21:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1009:Replicating tracks
+08-17 13:21:59 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete
