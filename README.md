@@ -48,7 +48,7 @@ The first prototype is running a little bit high on Temps: Buck at ~80°C and As
 Misc
 ====
 If you like this project and want to support future work, feel free to donate to:
-**`bc1qkf9cdafr936y2qj9vpn8t8q6wdt99hq7w5ns95`**
+**`bc1q0ctaxeha3lpsaaz7kpjulflw2d9p66fhkp48dk`**
 
 
 or related projects without which this project would not have been possible for me:
