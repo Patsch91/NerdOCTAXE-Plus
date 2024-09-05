@@ -24,7 +24,7 @@ The NerdOCTAXE+ runs with a modified version of the AxeOS: https://github.com/Pa
 
 # Build
 
-DISCLAIMER: This device is an *advanced* build and partly WIP. To get 8 Asics soldered properly *can* be very hard and frustrating if you are not used to soldering Asics or soldering in general. Using that amount of power, this device isn't a toy and you should know what you are doing - stay safe!
+**DISCLAIMER:** This device is an *advanced* build and partly WIP. To get 8 Asics soldered properly *can* be very hard and frustrating if you are not used to soldering Asics or soldering in general. Using that amount of power, this device isn't a toy and you should know what you are doing - stay safe!
 
 The first prototype is running a little bit high on Temps: Buck at ~80°C and Asics about 60-70°C (so for now I used a rather unconventional way of additional cooling glueing some -many- cheapo small heatsinks directly onto the PCB which dropped the buck Temp to nice 50°C and Asics about 50-60°C)
 
@@ -48,7 +48,7 @@ The first prototype is running a little bit high on Temps: Buck at ~80°C and As
 Misc
 ====
 If you like this project and want to support future work, feel free to donate to:
-`bc1qkf9cdafr936y2qj9vpn8t8q6wdt99hq7w5ns95`
+**`bc1qkf9cdafr936y2qj9vpn8t8q6wdt99hq7w5ns95`**
 
 
 or related projects without which this project would not have been possible for me:
