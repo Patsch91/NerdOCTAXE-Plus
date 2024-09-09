@@ -4706,6 +4706,24 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 49.53 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1923-1664-1-ND"
+			(at 49.53 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "02c21f33-3ee1-491d-9d05-e2333705fc11")
 		)
