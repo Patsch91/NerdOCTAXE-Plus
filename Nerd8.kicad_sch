@@ -1582,7 +1582,7 @@
 				)
 			)
 		)
-		(property "Value" "12A"
+		(property "Value" "10A"
 			(at 50.165 49.3776 90)
 			(effects
 				(font
@@ -1626,7 +1626,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "0451012.MRL"
+		(property "Manufacturer" "0154010.DR"
 			(at 50.165 52.07 0)
 			(effects
 				(font
@@ -1635,7 +1635,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "F2592CT-ND"
+		(property "OrderNr" "F1251CT-ND"
 			(at 50.165 52.07 0)
 			(effects
 				(font
