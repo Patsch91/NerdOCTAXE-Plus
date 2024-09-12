@@ -5,14 +5,14 @@
     "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 2,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.5299999713897705
+      "zones": 0.5799999833106995
     },
     "selection_filter": {
       "dimensions": true,
@@ -34,7 +34,6 @@
       3,
       4,
       5,
-      8,
       9,
       10,
       11,
