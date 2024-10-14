@@ -45,6 +45,12 @@ The first prototype is running a little bit high on Temps: Buck at ~80°C and As
 
 -------------------------------
 
+Current developments:
+====
+10/14/24: The "bigger heatsink" test-pcb is coming soon. Changed the 4-Layer PCB to 6-Layer to conquer the heavy load on the rather small 1V2-Zone and added a whole 1V2 Layer + GND Layer. This should reduce the PCB-Temperatures, the Buck Temperature as it is located near the "hot" area and the voltage drop between the buck and the Asic Input. This design should be a little more energy efficient - I guess just some %´s, but should be noticable. 
+
+
+
 Misc
 ====
 If you like this project and want to support future work, feel free to donate to:
